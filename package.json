@@ -1,9 +1,9 @@
 {
-  "name": "nucker-bot",
+  "name": "nuker-bot",
   "main": "index.js",
   "author": "Mr.SIN RE#1528 | Persian Caesar",
   "version": "1.0.0",
-  "description": "The nucker and antinucker bot. Work on all guilds with high quality.",
+  "description": "The nucker and anti nuker bot. Work on all guilds with high quality.",
   "license": "BSD",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
     "advanced bot",
     "nucker bot",
     "advanced nucker bot",
-    "nuck",
+    "nuke",
     "hack discord",
-    "nuck server",
+    "nuke server",
     "persian caesar"
   ],
   "scripts": {
