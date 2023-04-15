@@ -1,0 +1,38 @@
+{
+  "name": "nucker-bot",
+  "main": "index.js",
+  "author": "Mr.SIN RE#1528 | Persian Caesar",
+  "version": "1.0.0",
+  "description": "The nucker and antinucker bot. Work on all guilds with high quality.",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Persian-Caesar/Nucker-Bot.git"
+  },
+  "bugs": {
+    "server": "https://dsc.gg/persian-caesar",
+    "url": "https://github.com/Persian-Caesar/Nucker-Bot/issues"
+  },
+  "homepage": "https://github.com/Persian-Caesar/Nucker-Bot#readme",
+  "keywords": [
+    "advanced bot",
+    "nucker bot",
+    "advanced nucker bot",
+    "nuck",
+    "hack discord",
+    "nuck server",
+    "persian caesar"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.2",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
