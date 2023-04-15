@@ -16,7 +16,7 @@ try {
     console.log("\n")
     console.log(clc.greenBright(`     ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓`))
     console.log(clc.greenBright(`     ┃ `) + " ".repeat(-1 + stringlength - ` ┃ `.length) + clc.greenBright("┃"))
-    console.log(clc.greenBright(`     ┃ `) + clc.cyanBright(`                   Welcome to Nucker Bot!`) + " ".repeat(-1 + stringlength - ` ┃ `.length - `                   Welcome to Nucker Bot!`.length) + clc.greenBright("┃"))
+    console.log(clc.greenBright(`     ┃ `) + clc.cyanBright(`                   Welcome to Nuker Bot!`) + " ".repeat(-1 + stringlength - ` ┃ `.length - `                   Welcome to Nuker Bot!`.length) + clc.greenBright("┃"))
     console.log(clc.greenBright(`     ┃ `) + " ".repeat(-1 + stringlength - ` ┃ `.length) + clc.greenBright("┃"))
     console.log(clc.greenBright(`     ┃ `) + clc.cyanBright(`             /-/ By Sobhan-SRZA and Persian Caesar /-/`) + " ".repeat(-1 + stringlength - ` ┃ `.length - `             /-/ By Sobhan-SRZA and Persian Caesar /-/`.length) + clc.greenBright("┃"))
     console.log(clc.greenBright(`     ┃ `) + " ".repeat(-1 + stringlength - ` ┃ `.length) + clc.greenBright("┃"))
