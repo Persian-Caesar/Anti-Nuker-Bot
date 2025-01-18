@@ -1,5 +1,6 @@
 # Anti-Nuker-Bot
 <div align="center">
+    <img src="https://badges.aleen42.com/src/npm.svg">
     <img src="https://badges.aleen42.com/src/node.svg">
     <img src="https://img.shields.io/github/v/release/Persian-Caesar/Anti-Nuker-Bot?label=Version">
     <div>
