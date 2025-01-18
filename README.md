@@ -6,7 +6,6 @@
         <img src="https://img.shields.io/github/license/Persian-Caesar/Anti-Nuker-Bot?label=License">
         <img src="https://img.shields.io/github/last-commit/Persian-Caesar/Anti-Nuker-Bot?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Persian-Caesar/Anti-Nuker-Bot?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Persian-Caesar/Anti-Nuker-Bot/total?label=Downloads">
     </div>
     <img src="https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?label=Forks">
     <img src="https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?label=Stars">
